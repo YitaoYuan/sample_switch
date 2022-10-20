@@ -1,6 +1,6 @@
 # sample switch
 
-This is a sample switch which forwards ethernet packets based on static L2-forward table.
+This is a sample switch written in p4-16 which forwards ethernet packets based on static L2-forward table.
 
 ## compile 
 

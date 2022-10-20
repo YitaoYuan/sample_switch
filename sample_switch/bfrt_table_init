@@ -1,4 +1,0 @@
-bfrt.sample_switch.pipe.Ingress.l2_forward_table.add_with_l2_forward(0x1070fd190095, 180)
-bfrt.sample_switch.pipe.Ingress.l2_forward_table.add_with_l2_forward(0x1070fd2fd851, 164)
-bfrt.sample_switch.pipe.Ingress.l2_forward_table.add_with_l2_forward(0x1070fd2fe441, 148)
-bfrt.sample_switch.pipe.Ingress.l2_forward_table.add_with_l2_forward(0x1070fd2fd421, 132)
